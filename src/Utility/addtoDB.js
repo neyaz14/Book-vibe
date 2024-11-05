@@ -9,8 +9,6 @@ const getStoreReadList = () =>{
     }else{
         return [];
     }
-
-
 }
 
 const addToSTOREreadLIST = (id)=>{
@@ -24,4 +22,4 @@ const addToSTOREreadLIST = (id)=>{
     }
 }
 
-export {addToSTOREreadLIST} ;
+export {addToSTOREreadLIST, getStoreReadList} ;

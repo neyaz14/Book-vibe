@@ -19,6 +19,7 @@ const BookDetail = () => {
         // 4. Check if the book isnt already in the list
         addToSTOREreadLIST(id);
     }
+    // addToSTOREreadLIST
 
 
     return (
